@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SLMC_TECHNICAL_EXAMINATION/static/css/main.e0f6323d.chunk.css",
+    "main.js": "/SLMC_TECHNICAL_EXAMINATION/static/js/main.a198e0ab.chunk.js",
+    "main.js.map": "/SLMC_TECHNICAL_EXAMINATION/static/js/main.a198e0ab.chunk.js.map",
+    "runtime-main.js": "/SLMC_TECHNICAL_EXAMINATION/static/js/runtime-main.c5f89c38.js",
+    "runtime-main.js.map": "/SLMC_TECHNICAL_EXAMINATION/static/js/runtime-main.c5f89c38.js.map",
+    "static/js/2.d82a5c23.chunk.js": "/SLMC_TECHNICAL_EXAMINATION/static/js/2.d82a5c23.chunk.js",
+    "static/js/2.d82a5c23.chunk.js.map": "/SLMC_TECHNICAL_EXAMINATION/static/js/2.d82a5c23.chunk.js.map",
+    "index.html": "/SLMC_TECHNICAL_EXAMINATION/index.html",
+    "static/css/main.e0f6323d.chunk.css.map": "/SLMC_TECHNICAL_EXAMINATION/static/css/main.e0f6323d.chunk.css.map",
+    "static/js/2.d82a5c23.chunk.js.LICENSE.txt": "/SLMC_TECHNICAL_EXAMINATION/static/js/2.d82a5c23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5f89c38.js",
+    "static/js/2.d82a5c23.chunk.js",
+    "static/css/main.e0f6323d.chunk.css",
+    "static/js/main.a198e0ab.chunk.js"
+  ]
+}
